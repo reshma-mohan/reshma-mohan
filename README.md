@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working as a Full Stack Developer<br>👯 I am a software enthusiast who aims at building user friendly web applications.<br>🤝 A developer who has exceptional presentation and mentoring skills.<br>🌱 A Keen learner who aims and improving technically<br>💬 Ask me about Software Development<br>⚡ A developer who focuses on logical ability rather than program syntax.
+🔭 I am currently working as a Full Stack Developer<br>👯 I am a software enthusiast who aims at building user friendly web applications.<br>🤝 A developer who has exceptional presentation and mentoring skills.<br>🌱 A Keen learner who aims at improving technically<br>💬 Ask me about Software Development<br>⚡ A developer who focuses on logical ability rather than program syntax.
 
 
 ## 🌐 Socials:
